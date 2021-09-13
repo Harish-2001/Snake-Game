@@ -9,3 +9,6 @@ Now we will install the random module. The random module is used to generate ran
 pip install random2
 ```
 Code yourself and try it guys!
+
+![Screenshot (1811)](https://user-images.githubusercontent.com/72653126/133114744-4c00c60a-e496-4271-a6f4-4ac19bf36058.png)
+
